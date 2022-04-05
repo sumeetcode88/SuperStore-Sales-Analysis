@@ -17,3 +17,7 @@ The primary objective of this project is to Analyse Superstore sales using Table
 
 ![alt text](https://github.com/sumeetcode88/SuperStore-Sales-Analysis/blob/8c8d8dd7dbd6b21ac195b1a54d211699155d6714/Salesstore%20-%20Story1.pdf
  "Story Board")
+
+# Results of Analysis
+* The item "Tables" in Sub-category shows loss
+* We should stop discounting on item "Tables"
