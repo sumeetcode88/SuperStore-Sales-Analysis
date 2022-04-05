@@ -3,7 +3,7 @@
 The primary objective of this project is to Analyse Superstore sales using Tableau.
 
 # Dataset:
-* We are working on sheet "Orders" in Superstore.xls file
+* We are working on sheet "Orders" in Superstore.xlsx file
 * This file has 9994 rows and 21 columns
 * This data belongs to period from 2014 to 2017
 
@@ -13,4 +13,4 @@ The primary objective of this project is to Analyse Superstore sales using Table
 * Comparison of Profit and Discount
 * Story board showing outcome of Analysis
 
-<embed src="filename. pdf" width="500" height="375">
+<embed src="Salesstore - Story1.pdf" width="500" height="375">
