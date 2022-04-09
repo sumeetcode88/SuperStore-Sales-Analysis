@@ -13,6 +13,9 @@ The primary objective of this project is to Analyse Superstore sales using Table
 * Comparison of Profit and Discount
 * Story board showing outcome of Analysis
 
+
+<a href="https://github.com/sumeetcode88/SuperStore-Sales-Analysis/blob/f45cdf2ba08ebd9cd8df40185e26ea2920f66395/Profit%20over%20time.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+
 <embed src="https://github.com/sumeetcode88/SuperStore-Sales-Analysis/blob/8c8d8dd7dbd6b21ac195b1a54d211699155d6714/Salesstore%20-%20Story1.pdf" width="500" height="375">
 
 ![alt text](https://github.com/sumeetcode88/SuperStore-Sales-Analysis/blob/8c8d8dd7dbd6b21ac195b1a54d211699155d6714/Salesstore%20-%20Story1.pdf
