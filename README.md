@@ -14,12 +14,11 @@ The primary objective of this project is to Analyse Superstore sales using Table
 * Story board showing outcome of Analysis
 
 
-<a href="SuperStore-Sales-Analysis/Profit over time.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="pdfs/SuperStore-Sales-Analysis/Profit over time.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
 <embed src="https://github.com/sumeetcode88/SuperStore-Sales-Analysis/blob/8c8d8dd7dbd6b21ac195b1a54d211699155d6714/Salesstore%20-%20Story1.pdf" width="500" height="375">
 
-![alt text](https://github.com/sumeetcode88/SuperStore-Sales-Analysis/blob/8c8d8dd7dbd6b21ac195b1a54d211699155d6714/Salesstore%20-%20Story1.pdf
- "Story Board")
+
 
 # Results of Analysis
 * The item "Tables" in Sub-category shows loss
